@@ -16,7 +16,7 @@ Winding Tree offers Devcon attendees to book their flights and hotels directly f
 
 ## Abstract
 
-Winding Tree is Ethereum-based decentralized B2B travel marketplace. We've also built a set of open source tools, including a [travel agency](https://glider.travel), which we could integrate directly into Devcon website. We'll also take on the responsibility of finding discounted hotel rates in Bogota, and also discounted flight tickets.
+Winding Tree is Ethereum-based decentralized B2B travel marketplace. We've also built a set of open source tools, including a [travel agency](https://glider.travel), which we could integrate directly into Devcon website. We'll also take on the responsibility of finding discounted hotel rates in Bogota, as well as discounted flight tickets.
 
 ## Motivation & Rationale
 
