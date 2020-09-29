@@ -5,8 +5,8 @@ Status: Draft
 Theme(s): Ticketing, Purchases & ID
 Tag(s): Attendee Experience
 Author(s): <Maksim Izmaylov> max@windingtree.com
-Resources Required: Some Devcon dev time, connecting about hotels in Bogota
-Discussions: https://forum.devcon.org/t/flights-and-hotels-sourced-via-decentralized-marketplace/42
+Resources Required: Some Devcon dev time, help connecting to hotels in Bogota
+Discussion: https://forum.devcon.org/t/flights-and-hotels-sourced-via-decentralized-marketplace/42
 Status: Draft
 ---
 
